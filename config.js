@@ -21,9 +21,9 @@ global.namabot = 'Adrian-MD V1.3'
 global.namaowner = 'Arxzy'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6289513081052']
-global.nomerowner = '62 895-1308-1052'
-global.premium = ['6289513081052']
+global.owner = ['84876459724']
+global.nomerowner = '84 876459724'
+global.premium = ['84876459724']
 
 //—————「 Set Wm 」—————//
 global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 𝙰𝙳𝚁𝙸𝙰𝙽𝙱𝙾𝚃\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
